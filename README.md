@@ -1,1 +1,1 @@
-"# intellisearch" 
+"# intellisearch-feature-setup" 
